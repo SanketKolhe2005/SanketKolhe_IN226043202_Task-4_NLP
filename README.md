@@ -157,6 +157,11 @@ Due to a known issue with `Trainer.evaluate()` in some environments, evaluation 
 * Hyperparameter tuning
 
 ---
+## 🚀 Open in Colab
+
+https://colab.research.google.com/github/SanketKolhe2005/SanketKolhe_IN226043202_Task-4_NLP/blob/main/Task4_NLP.ipynb
+
+---
 
 ## 📌 Conclusion
 
